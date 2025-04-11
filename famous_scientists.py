@@ -1,4 +1,4 @@
-# Dictionary containing notable scientists and their key achievements
+# Famous Scientists - Notable scientists and their achievements
 
 scientists = {
     "Albert Einstein": "Developed the theory of relativity.",
