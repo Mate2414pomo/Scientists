@@ -1,7 +1,6 @@
 # 🧠 Famous Scientists
 Notable scientists and their achievements
-
-This project provides a simple Python script that displays a list of famous scientists and highlights their major achievements.
+This project provides a simple Python script that displays a list of famous scientists and highlights their major achievements (Notable scientists 🧠 and their achievements).
 
 ## 📚 What's Inside
 
