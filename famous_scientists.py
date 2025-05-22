@@ -1,6 +1,7 @@
 # Famous Scientists - Notable scientists and their achievements
 import os
 import pandas
+import operator
 
 scientists = {
     "Albert Einstein": "Developed the theory of relativity.",
