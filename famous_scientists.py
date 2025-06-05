@@ -1,6 +1,6 @@
 # Famous Scientists - Notable scientists and their achievements
 import os
-import pandas
+import pandas as pd
 import operator
 
 scientists = {
