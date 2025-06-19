@@ -4,7 +4,7 @@ import pandas as pd
 import operator
 
 scientists = {
-    "Albert Einstein": "Developed the theory of relativity.",
+    "Albert Einnstein": "Developed the theory of relativity.",
     "Isaac Newton": "Formulated the laws of motion and universal gravitation.",
     "Marie Curie": "Pioneered research on radioactivity, first woman to win a Nobel Prize.",
     "Galileo Galilei": "Made fundamental contributions to physics, astronomy, and scientific method.",
